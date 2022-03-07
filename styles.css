@@ -110,7 +110,9 @@ body {
 .contacts li {
   text-align: center;
 }
-.conteiner-skills {
+ .conteiner-skills {
+   display: flex;
+   flex-wrap: wrap;
   width: 60%;
   margin: 0 auto;
   padding: 20px;
@@ -119,7 +121,7 @@ body {
   background-color: var(--accent);
   color: var(--pure-white);
   border-radius: 10px;
-}
+} 
 .skills ul {
   display: flex;
   justify-content: center;
