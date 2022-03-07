@@ -1,3 +1,3 @@
 # Deployed Link
 
-https://nurgazy1982.github.io/
+https://nurgazy1982.github.io/portfolio/
